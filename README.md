@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctolosano
 - 👀 I’m interested in EVERYTHING. ( I love learning new stuff.. 😅 )
-- 🌱 I’m currently learning C++ / HTML/CSS
+- 🌱 I’m currently learning C++ / HTML/CSS/JavaScript
 - 💞️ I’m not looking to collaborate on projects.
 - 📫 How to reach me : You can't. 
 - 😄 Pronouns: she/her
